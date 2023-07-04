@@ -31,7 +31,7 @@ Díaz-Rodríguez, Mikel.<a href="https://orcid.org/0000-0002-2703-1507">
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8114341.svg)](https://doi.org/10.5281/zenodo.8114341)
 
-[Link in Zenodo](https://doi.org/10.5281/zenodo.8114341
+[Link in Zenodo](https://doi.org/10.5281/zenodo.8114341)
 
 ## License
 CC-BY 4.0
