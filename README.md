@@ -12,7 +12,11 @@ This repository contains the files of the chronometric dates framed between 45-3
 ## Repository files
 *dataset_northern_Iberia_dates.csv* ... this file contains the essential information for each of the collected dates.
 
+*dataset_northern_Iberia_dates.xls* ... this file contains the essential information for each of the collected dates in xls format.
+
 *dates_score.csv* ... this file contains the individual scores attributed to each of the dated samples based on the criteria proposed by [Pettitt et al. 2003](https://doi.org/10.1016/S0305-4403(03)00070-0). 
+
+*dates_score.xls* ... this file contains the individual scores attributed to each of the dated samples based on the criteria proposed by [Pettitt et al. 2003](https://doi.org/10.1016/S0305-4403(03)00070-0) in xls format. 
 
 *References.txt* ... this file includes bibliographical references for each date.
 
