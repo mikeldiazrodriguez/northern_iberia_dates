@@ -33,9 +33,9 @@ Díaz-Rodríguez, Mikel.<a href="https://orcid.org/0000-0002-2703-1507">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="14" height="14" />
 </a>. (2023, July 4). An annotated compilation of chronometric dates for the Middle-Upper Palaeolithic Transition (45-30 ka BP) in northern Iberia (Spain). Source Data. Zenodo. https://doi.org/10.5281/zenodo.8114341
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8114341.svg)](https://doi.org/10.5281/zenodo.8114341)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8114341.svg)](https://doi.org/10.5281/zenodo.8334722)
 
-[Link in Zenodo](https://doi.org/10.5281/zenodo.8114341)
+[Link in Zenodo](https://doi.org/10.5281/zenodo.8334722)
 
 ## License
 CC-BY 4.0
